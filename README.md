@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Abdullah, a passionate Full-Stack Developer and AI Engineer who loves turning complex ideas into elegant, high-performance web apps.
+# Hi, I'm Abdullah 💫
+A passionate Full-Stack Developer and AI Engineer who loves turning complex ideas into elegant, high-performance web apps.
 
 ---
 
