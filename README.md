@@ -43,7 +43,7 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 
 ## 🚀 GitHub Stats & Activity
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=highcontrast&hide_border=true&background=0f0c29&ring=00e6fe&fire=ff0080&currStreakLabel=fff&border_radius=12" height="180px" />
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=highcontrast&hide_border=true&background=0f0c29&ring=00e6fe&fire=ff0080&currStreakLabel=fff&border_radius=12" height="200px" />
 <!-- Main Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=00e6fe&hide_border=true&border_radius=12" height="180px" />
 <!-- Languages -->
