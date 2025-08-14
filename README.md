@@ -43,12 +43,14 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 
 ## 🚀 GitHub Stats & Activity
 
-<!-- 📊 Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=000000&title_color=0affef&text_color=ffffff&icon_color=ff00ff&hide_border=true&border_radius=14&rank_icon=github" height="200px" />
 <!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=000000&ring=0affef&fire=ff00ff&currStreakLabel=0affef&sideNums=00f7ff&sideLabels=00f7ff&dates=9d9d9d&stroke=00f7ff&border_radius=14" height="200px" />
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0d1117&ring=00ffc8&fire=ff0080&currStreakLabel=00ffc8&sideNums=00ffc8&sideLabels=00ffc8&dates=8b949e&stroke=00ffc8&border_radius=12" height="200px" />  
+
+<!-- 📊 Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9&icon_color=ff0080&hide_border=true&border_radius=12&rank_icon=github&line_height=24" height="180px" />  
+
 <!-- 🧠 Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=0affef&text_color=ffffff&icon_color=ff00ff&hide_border=true&border_radius=14" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9&icon_color=ff0080&hide_border=true&border_radius=12" height="150px" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdullahRaoo&icon=0&color=0)](https://visitcount.itsvg.in)
