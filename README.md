@@ -1,5 +1,4 @@
 # Hi, I'm Abdullah 💫
----
 
 ## ⚙️ What I Do:
 - 🧠 **Build AI-powered systems** with custom-trained models for real-world automation.
