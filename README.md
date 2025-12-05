@@ -45,24 +45,22 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&line_height=24&custom_title=AI%20Engineer%20|%20Full-Stack%20Developer" alt="GitHub Stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" alt="Top Languages" />
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AbdullahRaoo&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=AbdullahRaoo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
