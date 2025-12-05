@@ -51,3 +51,30 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahRaoo&theme=github_dark" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahRaoo&theme=github_dark" alt="Most Commit Language" />
 </p>
+
+
+## 🤖 GitHub Stats & Activity
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahRaoo&bg_color=0a0f0d&color=00f5d4&line=9d00ff&point=00f5d4&area=true&hide_border=true" alt="Activity Graph" />
+
+
+## 🤖 GitHub Stats & Activity
+<!-- GitHub Streak with your custom colors -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
+
+<!-- Stats with custom colors -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&cache_seconds=1800" alt="Top Languages" width="49%" />
+</p>
+
+
+## 🤖 GitHub Stats & Activity
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AbdullahRaoo&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
