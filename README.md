@@ -42,18 +42,14 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 ---
-
 ## 🤖 GitHub Stats & Activity
 
 <div align="center">
 
-<!-- 🔥 Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" width="49%" />  
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" width="100%" />
 
-<!-- 📊 Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&line_height=24&custom_title=AI%20Engineer%20%7C%20Full-Stack%20Developer" width="49%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&line_height=24&custom_title=AI%20Engineer%20%7C%20Full-Stack%20Developer" width="100%" />
 
-<!-- 🧠 Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" width="100%" />
 
 </div>
