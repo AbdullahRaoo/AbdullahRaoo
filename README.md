@@ -44,11 +44,11 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 ---
 ## 🤖 GitHub Stats & Activity
 
-<!-- Using GitHub Profile Summary Cards (more reliable) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahRaoo&theme=dracula)
+<!-- Using GitHub Profile Summary Cards with custom colors matching your theme -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahRaoo&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahRaoo&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahRaoo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahRaoo&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahRaoo&theme=github_dark)
 
-<!-- GitHub Streak - using img tag instead of markdown link -->
-<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dracula" alt="GitHub Streak" />
+<!-- GitHub Streak with your custom colors -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
