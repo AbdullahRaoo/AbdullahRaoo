@@ -44,11 +44,12 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 ---
 ## 🤖 GitHub Stats & Activity
 
-<!-- GitHub Stats with your custom colors -->
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" alt="GitHub Stats" />
-
-<!-- Top Languages with your custom colors -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" alt="Top Languages" />
-
 <!-- GitHub Streak with your custom colors -->
+
 <img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
+
+<!-- Using GitHub Profile Summary Cards with custom colors matching your theme -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahRaoo&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahRaoo&theme=github_dark)
