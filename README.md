@@ -44,11 +44,11 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 ---
 ## 🤖 GitHub Stats & Activity
 
-<!-- Using GitHub Profile Summary Cards (more reliable) -->
+<!-- Using GitHub Profile Summary Cards -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahRaoo&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahRaoo&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdullahRaoo&theme=dracula)
 
-<!-- GitHub Streak (alternative domain) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dracula)](https://git.io/streak-stats)
+<!-- GitHub Streak with your custom colors -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak" />
