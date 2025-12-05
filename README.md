@@ -43,24 +43,17 @@ A passionate AI Engineer and Full-Stack Developer who loves turning complex idea
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🤖 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" alt="GitHub Streak Stats" />
+<!-- 🔥 Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=AbdullahRaoo&theme=dark&hide_border=true&background=0a0f0d&ring=00f5d4&fire=9d00ff&currStreakLabel=00f5d4&sideNums=00f5d4&sideLabels=00f5d4&dates=8b949e&stroke=00f5d4&border_radius=14" width="49%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<!-- 📊 Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullahRaoo&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14&rank_icon=github&line_height=24&custom_title=AI%20Engineer%20%7C%20Full-Stack%20Developer" width="49%" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=AbdullahRaoo&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- 🧠 Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahRaoo&layout=compact&langs_count=8&theme=dark&bg_color=0a0f0d&title_color=00f5d4&text_color=c9d1d9&icon_color=9d00ff&hide_border=true&border_radius=14" width="49%" />
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
